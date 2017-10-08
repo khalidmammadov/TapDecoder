@@ -1,0 +1,6 @@
+1) Change the berlib.c to recognise SEQUENCE OF type.
+   It will allow you to add numbers before each sequence.
+   for example:
+   Call records:
+          CD(1) MobileOriginated
+          CD(2) GPRS record

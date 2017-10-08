@@ -1,0 +1,7 @@
+gcc -lm tap3Decoder.c -o  tap3Decoder 
+#./tap3Decoder CDCODSAAZEAC00319 TAP39_DEF_SHORT2.ASN1
+
+./tap3Decoder TDSVKO2AZEAC00180 TAP39_DEF_SHORT.ASN1
+
+
+ 
